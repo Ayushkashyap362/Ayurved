@@ -1,0 +1,301 @@
+,Symptom,Description,Disease
+0,Vatavikara,Disorders related to the Vata dosha.,Bronchial Asthma
+1,Netraroga,Eye disorders.,Bronchial Asthma
+2,Malavarodha,Constipation.,Typhoid
+3,Sutikadosha,Postpartum disorders.,Bronchial Asthma
+4,Vrana,Wounds or injuries.,Impetigo
+5,Khalitya,Hair loss.,drug reaction
+6,Raktasrava,Bleeding disorders.,Dimorphic Hemorrhoids
+7,Svarabheda,Voice disorders.,gastroesophageal reflux disease
+8,Arbuda,Tumors or growths.,Bronchial Asthma
+9,Raktadushti,Blood impurities.,Dimorphic Hemorrhoids
+10,Shulahara,Pain management.,Dengue
+11,Pittadushti,Pitta dosha imbalance.,Bronchial Asthma
+12,Vatarakta,Gout.,Bronchial Asthma
+13,Shirogatavata,Headache due to Vata imbalance.,Typhoid
+14,Rajodosha,Menstrual disorders.,Bronchial Asthma
+15,Vishuchika,Dysentery.,Bronchial Asthma
+16,Kastartava,Painful menstruation.,Dimorphic Hemorrhoids
+17,Garadosha,Leprosy.,Bronchial Asthma
+18,Urahkshata,Chest injury.,drug reaction
+19,Vatavyadhi,Diseases related to Vata dosha.,Bronchial Asthma
+20,Dhatukshaya,Tissue depletion.,Bronchial Asthma
+21,Yonishula,Pelvic pain.,urinary tract infection
+22,Vidvibandha,Constipation due to neurological causes.,Arthritis
+23,Gudapaka,Anal disorders.,Bronchial Asthma
+24,Shirahshula,Headache.,Chicken pox
+25,Mahavataroga,Severe skin diseases.,Acne
+26,Hriddaha,Heartburn.,peptic ulcer disease
+27,Shvitra,Leucoderma or vitiligo.,Bronchial Asthma
+28,Amavata,Rheumatoid arthritis.,Bronchial Asthma
+29,Rajodushti,Menstrual disorders.,Bronchial Asthma
+30,Shiroroga,Head disorders.,Hypertension
+31,Dushtavrana,Infected wounds.,Impetigo
+32,Chhardi,Vomiting.,Malaria
+33,Nadivrana,Sinusitis.,Bronchial Asthma
+34,Raktarsha,Hemorrhoids.,Bronchial Asthma
+35,Indralupta,Alopecia areata.,Bronchial Asthma
+36,Yoniroga,Gynecological disorders.,Bronchial Asthma
+37,Balaroga,Pediatric diseases.,Bronchial Asthma
+38,Hriddrava,Cardiac effusion.,Bronchial Asthma
+39,Bhagandar,Fistula-in-ano.,Bronchial Asthma
+40,Vranashotha,Swelling of wounds.,Impetigo
+41,Ardhavbhedaka,Migraine.,Bronchial Asthma
+42,Granthi,Cyst or tumor.,Bronchial Asthma
+43,Sandhigatavata,Osteoarthritis.,Bronchial Asthma
+44,Agnidagdha,Burnt by digestive fire (related to digestion).,Dimorphic Hemorrhoids
+45,Manodvega,Mental disorders.,drug reaction
+46,Pittaroga,Diseases related to Pitta dosha.,Bronchial Asthma
+47,Mutraghata,Urinary obstruction.,diabetes
+48,Suryavarta,Sunstroke.,Bronchial Asthma
+49,Pittajanetravyadhi,Disorders of the urinary system related to Pitta dosha.,diabetes
+50,Vastigatashula,Pain related to enema administration.,Dengue
+51,Shula,Abdominal pain.,Jaundice
+52,Mukhdaurgandhya,Foul smell from the mouth.,urinary tract infection
+53,Vatajashula,Abdominal pain due to Vata dosha.,Jaundice
+54,Urustambha,Thigh stiffness.,Arthritis
+55,Anidra,Insomnia.,Bronchial Asthma
+56,Anaha,Bloating.,peptic ulcer disease
+57,Sandhigraha,Joint stiffness.,Arthritis
+58,Urdhvagaraktapitta,Upper gastrointestinal bleeding.,peptic ulcer disease
+59,Hrid-daurbalya,Weakness of the heart.,Cervical spondylosis
+60,Sandhivedana,Joint pain.,Dengue
+61,Padadaha,Foot burning sensation.,Impetigo
+62,Amvata,Rheumatism.,Bronchial Asthma
+63,Khalli,Abscess.,Bronchial Asthma
+64,Dagdhavrana,Burn wounds.,Impetigo
+65,Kshata,Injury.,Bronchial Asthma
+66,Gandamala,Tonsillitis.,Bronchial Asthma
+67,Kushtha,Skin diseases.,Acne
+68,Manoroga,Mental disorders.,drug reaction
+69,Manodosha,Psychological imbalances.,Bronchial Asthma
+70,Panduduarbalya,Anemia and weakness.,Cervical spondylosis
+71,Atisara,Diarrhea.,Typhoid
+72,Hikka,Hiccups.,gastroesophageal reflux disease
+73,Dadru,Fungal skin infections.,Psoriasis
+74,Arma,Filariasis.,Bronchial Asthma
+75,Tvakvikara,Skin disorders.,Acne
+76,Agnimandhya,Digestive weakness.,Migraine
+77,Pittajaroga,Diseases related to Pitta dosha.,Bronchial Asthma
+78,Praseka,Excessive salivation.,Migraine
+79,Medoroga,Disorders related to fat tissue.,Bronchial Asthma
+80,Raktajroga,Diseases of blood.,Dimorphic Hemorrhoids
+81,Agnimandya,Digestive weakness.,Migraine
+82,Malabandha,Constipation due to fecal impaction.,peptic ulcer disease
+83,Raktapradara,Menorrhagia (excessive menstrual bleeding).,Dimorphic Hemorrhoids
+84,Mutrakricchra,Dysuria (painful urination).,urinary tract infection
+85,Rajayakshma,Tuberculosis.,Bronchial Asthma
+86,Daha,Burning sensation.,Impetigo
+87,Pliharoga,Splenic disorders.,Bronchial Asthma
+88,Raktapitta,Bleeding disorders related to Pitta dosha.,Dimorphic Hemorrhoids
+89,Medhya,Enhancing intellect.,Bronchial Asthma
+90,Vishamajvara,Irregular fever.,Chicken pox
+91,Manodaurbalya,Mental weakness.,drug reaction
+92,Ojakshya,Immune deficiency.,Bronchial Asthma
+93,Tvakroga,Skin diseases.,Acne
+94,Mukhapaka,Oral ulcers.,Bronchial Asthma
+95,Hridya,Cardiotonic.,Bronchial Asthma
+96,Pittajvara,Fever due to Pitta dosha.,Typhoid
+97,Udara,Abdominal disorders.,Jaundice
+98,Badhirya,Deafness.,Bronchial Asthma
+99,Kasa,Cough.,Bronchial Asthma
+100,Vatroga,Diseases related to Vata dosha.,Bronchial Asthma
+101,Udavarta,Reverse movement of Vata.,Dimorphic Hemorrhoids
+102,Shirokampa,Tremors of the head.,drug reaction
+103,Svarbheda,Hoarseness of voice.,gastroesophageal reflux disease
+104,Kamala,Jaundice.,Bronchial Asthma
+105,Trikshula,Abdominal colic.,Jaundice
+106,Jirnapravahika,Chronic diarrhea.,Cervical spondylosis
+107,Budhidaurbalya,Mental weakness.,drug reaction
+108,Mutrakriccha,Difficulty in urination.,urinary tract infection
+109,Mukharoga,Oral disorders.,Bronchial Asthma
+110,Ajirna,Indigestion.,Migraine
+111,Vicharchika,Eczema.,Bronchial Asthma
+112,Udarashula,Abdominal pain.,Jaundice
+113,Keshapata,Hair fall.,drug reaction
+114,Jirnapratishaya,Chronic rhinitis.,Cervical spondylosis
+115,Manyastambha,Muscle stiffness.,Arthritis
+116,Amatisara,Chronic diarrhea.,Cervical spondylosis
+117,Halimaka,Cirrhosis of the liver.,Bronchial Asthma
+118,Bhru-shankha-karnashula,"Pain in the eyebrows, temples, and ears.",Dengue
+119,Charmkila,Skin tags.,Acne
+120,Raktanishthivana,Blood vessel disorders.,Dimorphic Hemorrhoids
+121,Shukrameha,Seminal disorders.,Bronchial Asthma
+122,Jara,Aging.,Bronchial Asthma
+123,Yonidosha,Vaginal disorders.,drug reaction
+124,Sukradosha,Semen disorders.,Bronchial Asthma
+125,Avabahuka,Frozen shoulder.,Bronchial Asthma
+126,Smritibhransha,Memory loss.,Cervical spondylosis
+127,Bhutonmada,Psychic disorders.,Bronchial Asthma
+128,Parshvashula,Side pain.,Dengue
+129,Shulayuktabradhna,Stones associated with pain.,Dengue
+130,Apasmara,Epilepsy.,Bronchial Asthma
+131,Kotha,Cough.,Bronchial Asthma
+132,Udvega,Anxiety.,Migraine
+133,Ama,Toxins or undigested food.,gastroesophageal reflux disease
+134,Urdhvajatrugataroga,Upper respiratory tract disorders.,diabetes
+135,Pakshaghata,Hemiplegia.,Bronchial Asthma
+136,Panguvata,Hemiplegia.,Bronchial Asthma
+137,Aksepa,Seizures.,Bronchial Asthma
+138,Shvasa,Asthma.,Bronchial Asthma
+139,Pliha-yakridroga,Disorders of the spleen and liver.,Bronchial Asthma
+140,Hanustambha,Facial paralysis.,Bronchial Asthma
+141,Asthiruja,Joint pain.,Dengue
+142,Vandhyaroga,Infertility.,Bronchial Asthma
+143,Amadosha,Impaired digestion.,Migraine
+144,Smritikshaya,Memory decline.,Bronchial Asthma
+145,Pakshaghat,Paralysis.,Bronchial Asthma
+146,Gulma,Abdominal tumor or mass.,Jaundice
+147,Vishmajvara,Poisonous fever.,Chicken pox
+148,Arochaka,Loss of appetite.,peptic ulcer disease
+149,Netravrana,Eye injury.,Bronchial Asthma
+150,Pradara,Leucorrhea.,Bronchial Asthma
+151,Karnagutha,Ear infection.,Impetigo
+152,Karnasrava,Ear discharge.,drug reaction
+153,Visavikara,Poisonous conditions.,Bronchial Asthma
+154,Mahakushtha,Severe skin diseases.,Acne
+155,Rajorodha,Menstrual blockage.,Bronchial Asthma
+156,Yonibhransha,Vaginal prolapse.,drug reaction
+157,Gridhrasi,Sciatica.,Bronchial Asthma
+158,Vranaropana,Wound healing.,diabetes
+159,Kushta,Skin disorders.,Acne
+160,Palitya,Premature graying of hair.,drug reaction
+161,Keshashata,Baldness.,Bronchial Asthma
+162,Garavisha,Poisoning by heavy metals.,Arthritis
+163,Balya,Health-promoting.,Bronchial Asthma
+164,Apsmara,Epilepsy.,Bronchial Asthma
+165,Amlapitta,Hyperacidity.,Bronchial Asthma
+166,Pratishyaya,Common cold.,Pneumonia
+167,Upadansha,Skin eruptions.,Acne
+168,Madhumeha,Diabetes.,Bronchial Asthma
+169,Aruchi,Anorexia.,Bronchial Asthma
+170,Shwetapradara,White discharge (leucorrhea).,drug reaction
+171,Pakshavadha,Hemiplegia.,Bronchial Asthma
+172,Karnanada,Earache.,Bronchial Asthma
+173,Vataraktaruja,Gout.,Bronchial Asthma
+174,Yonivyapat,Vaginal prolapse.,drug reaction
+175,Shotha,Edema.,Bronchial Asthma
+176,Grahaniroga,Irritable bowel syndrome.,peptic ulcer disease
+177,Apachi,Herpes.,Bronchial Asthma
+178,Prameha,Urinary disorders.,diabetes
+179,Jvara,Fever.,Chicken pox
+180,Balashosha,Nutritional edema.,Bronchial Asthma
+181,Bhrama,Vertigo.,Cervical spondylosis
+182,Trisha,Thirst.,Bronchial Asthma
+183,Hridroga,Heart disease.,Pneumonia
+184,Vatashonita,Gouty arthritis with bleeding.,Dimorphic Hemorrhoids
+185,Garbhadosha,Fetal abnormalities.,Bronchial Asthma
+186,Prasavottararoga,Post-delivery disorders.,Bronchial Asthma
+187,Smritidaurbalya,Memory weakness.,Cervical spondylosis
+188,Balagraha,Malnutrition.,Bronchial Asthma
+189,Visarpa,Erysipelas.,Bronchial Asthma
+190,Drishtimandya,Visual impairment.,Migraine
+191,Prasavottaralakshana,Post-delivery symptoms.,Hypertension
+192,Khanja,Lameness.,Bronchial Asthma
+193,Kandu,Itching.,Malaria
+194,Daurbalya,Weakness.,Cervical spondylosis
+195,Vataroga,Diseases related to Vata dosha.,Bronchial Asthma
+196,Vatashlaismikapratishyaya,Allergic rhinitis due to Vata dosha.,peptic ulcer disease
+197,Drishtidaurbalya,Weak vision.,Migraine
+198,Amashula,Abdominal colic due to Ama (toxins).,peptic ulcer disease
+199,Kustha,Leprosy.,Bronchial Asthma
+200,Vibandha,Constipation.,Typhoid
+201,Sharkara,Pemphigus.,Bronchial Asthma
+202,Karshya,Emaciation.,Bronchial Asthma
+203,Krichhrartav,Painful menstruation.,Dimorphic Hemorrhoids
+204,Ashmari,Kidney stones.,Bronchial Asthma
+205,Karnashula,Ear pain.,Dengue
+206,Udararoga,Abdominal disorders.,Jaundice
+207,Arshagarbhasayaroga,Hemorrhoids in pregnancy.,Bronchial Asthma
+208,Abhighatajavedanaandvatavikara,Nervous system disorders due to trauma.,peptic ulcer disease
+209,Pittajashirahshula,Headache due to Pitta dosha.,Typhoid
+210,Klaivya,Leprosy.,Bronchial Asthma
+211,Angasthambha,Body stiffness.,Arthritis
+212,Krimi,Worm infestations.,Bronchial Asthma
+213,Unmada,Insanity.,Bronchial Asthma
+214,Jirnajvara,Chronic fever.,Cervical spondylosis
+215,Shosha,Emaciation.,Bronchial Asthma
+216,Kshatakshina,Wasting syndrome.,Bronchial Asthma
+217,Sarvajvara,All types of fever.,Chicken pox
+218,Katishula,Backache.,Bronchial Asthma
+219,Parinamashula,Colicky pain.,Dengue
+220,Sarpadamsha,Snakebite.,Bronchial Asthma
+221,Pramehapidika,Boils in urinary tract disorders.,diabetes
+222,Vatakaphajaroga,Diseases related to Vata and Kapha dosha.,Bronchial Asthma
+223,Janghashula,Calf pain.,Hypertension
+224,Grahaniroga?pravahika,Irritable bowel syndrome with diarrhea.,Typhoid
+225,Svarakshaya,Voice loss.,gastroesophageal reflux disease
+226,Pandu,Anemia.,Bronchial Asthma
+227,Mandagni,Impaired digestion.,Migraine
+228,Trishna,Thirst.,Bronchial Asthma
+229,Sthaulya,Obesity.,Varicose Veins
+230,Timira,Blindness.,Bronchial Asthma
+231,Prishashula,Side pain.,Dengue
+232,Asthibhagna,Bone fractures.,Bronchial Asthma
+233,Kasashvasa,Cough and breathlessness.,Bronchial Asthma
+234,Vidagdhajirna,Digestive disorders causing burning sensation.,Impetigo
+235,Vidradhi,Abscess.,Bronchial Asthma
+236,Dantaroga,Dental diseases.,Bronchial Asthma
+237,Amajirna,Indigestion due to Ama (toxins).,peptic ulcer disease
+238,Vandhyatva,Infertility.,Bronchial Asthma
+239,Grahani,Irritable bowel syndrome.,peptic ulcer disease
+240,Balakshaya,Loss of strength in children.,Cervical spondylosis
+241,Kshudrakushtha,Minor skin disorders.,Psoriasis
+242,Sutikaroga,Postpartum disorders.,Bronchial Asthma
+243,Asthichyuti,Bone atrophy.,Bronchial Asthma
+244,Vrishya,Aphrodisiac.,Bronchial Asthma
+245,Sthanikashotha,Localized swelling.,Arthritis
+246,Sandhishula,Joint pain.,Dengue
+247,Urushula,Thigh pain.,Dengue
+248,Angavedana,Body pain.,Dengue
+249,Pravahika,Dysentery.,Bronchial Asthma
+250,Kaphavatajanadivrana,Wounds with Kapha and Vata involvement.,Impetigo
+251,Pangu,Limping.,Bronchial Asthma
+252,Pama,Filariasis.,Bronchial Asthma
+253,Shvetapradara,White discharge (leucorrhea).,drug reaction
+254,Galaroga,Goiter.,Bronchial Asthma
+255,Raktajpravahika,Hemorrhagic diarrhea.,Typhoid
+256,Kampa,Tremors.,drug reaction
+257,Abhishyanda,Ophthalmia.,Bronchial Asthma
+258,Charmavikara,Skin disorders.,Acne
+259,Pliha,Spleen disorders.,Bronchial Asthma
+260,Udarda,Urticaria.,Bronchial Asthma
+261,Vidarika,Herpes.,Bronchial Asthma
+262,Yakshma,Tuberculosis.,Bronchial Asthma
+263,Adhamana,Flatulence.,Bronchial Asthma
+264,Moha,Delusion.,Bronchial Asthma
+265,Striroga,Gynecological disorders.,Bronchial Asthma
+266,Parinamshula,Colicky pain due to diet.,Typhoid
+267,Somaroga,Diseases related to the moon (lunar disorders).,Bronchial Asthma
+268,Manasadosha,Mental disorders.,drug reaction
+269,Kaphajavrana,Wounds with Kapha involvement.,Impetigo
+270,Agnimandyaudararoga,Digestive weakness and abdominal disorders.,Migraine
+271,Bhagandara,Fistula-in-ano.,Bronchial Asthma
+272,Smritiandbuddhivardhaka,Enhancing memory and intellect.,Bronchial Asthma
+273,Raktatisara,Blood diarrhea.,Typhoid
+274,Krimiroga,Worm infestations.,Bronchial Asthma
+275,Hritshula,Chest pain.,drug reaction
+276,Vriddhiroga,Aging-related diseases.,Bronchial Asthma
+277,Sandhigatvata,Joint disorders due to Vata dosha.,Dengue
+278,Sutikavata,Postpartum Vata disorders.,Bronchial Asthma
+279,Katigraha,Lumbago.,Bronchial Asthma
+280,Visuchika,Dysentery.,Bronchial Asthma
+281,Mutrashmari,Kidney stones.,Bronchial Asthma
+282,Murchha,Syncope.,Bronchial Asthma
+283,Rasayana,Rejuvenation.,Bronchial Asthma
+284,Hriddaurbalya,Heart weakness.,Cervical spondylosis
+285,Paktishula,Colicky pain due to digestion.,Typhoid
+286,Bahushosha,Severe emaciation.,Acne
+287,Mutrasthila,Urinary retention.,diabetes
+288,Shitapitta,Urticaria.,Bronchial Asthma
+289,Aptantrak,Snakebite.,Bronchial Asthma
+290,Arsha,Hemorrhoids.,Bronchial Asthma
+291,Jvaratisara,Febrile dysentery.,Bronchial Asthma
+292,Ardita,Facial paralysis.,Bronchial Asthma
+293,Kanduvisphota,Itching and eruptions.,Chicken pox
+294,Pinasa,Sinusitis.,Bronchial Asthma
+295,Galaganda,Goiter.,Bronchial Asthma
+296,Asrigdara,Menorrhagia.,Bronchial Asthma
+297,Pittajanetraroga,Urinary disorders due to Pitta dosha.,diabetes
+298,Mutraroga,Urinary disorders.,diabetes
+299,Kshaya,Debility. ,Bronchial Asthma

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Form Design</title>
+    <!-- <link rel="stylesheet" href="static/index.css"> -->
+    <link rel="stylesheet" href="static/output.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Ayur-MED</h1>
+        <form id="symptomForm" method="POST" action="/">
+            <label for="symptoms">Symptoms:</label>
+            <input type="text" name="symptomInput" placeholder="Type your symptoms here.">
+
+            <input type="submit" value="Submit">
+            <br>
+        </form>
+    </div>
+    <br>
+    <div class="container1">
+        <h1>Prediction Results:</h1>
+        <div class="result">
+            <h2>Predicted Disease:</h2>
+            <p id="predictedDisease">{{ predictedDisease }}</p>
+        </div>
+        <div class="result">
+            <h2>Predicted Medicine:</h2>
+            <p id="predictedMedicine"><ul>
+                {% for item in prescribedMedicines %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+                </ul></p>
+        </div>
+        <div class="result">
+            <h2>Accuracy Report:</h2>
+            <p id="accuracy">{{ accuracy }}</p>
+        </div>
+        <div class="result">
+            <h2>Classification Report:</h2>
+            <p id="classificationreport">{{ classificationreport | safe }}</p>
+        </div>
+    </div>
+
+</body>
+</html>
